@@ -8,6 +8,7 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
+[My GitHub account](https://github.com/DrummingWoman32)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
