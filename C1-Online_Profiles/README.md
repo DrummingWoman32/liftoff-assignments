@@ -14,7 +14,7 @@ Provide a link to your GitHub account here.
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-[My LinkedIn page](www.linkedin.com/in/milenbuchillon-triff)
+[My LinkedIn page](https://www.linkedin.com/in/milenbuchillon-triff)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
